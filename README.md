@@ -40,5 +40,4 @@ Import or create the salaries table in your database.
 Run queries in VALUE_WINDOW_FUNCTION.sql to explore different window function applications.
 
 Modify partitioning and ordering clauses for your specific analysis needs.
-
-Sample Output
+<img width="1236" height="264" alt="USE_WF" src="https://github.com/user-attachments/assets/59228605-6a3b-4956-a4d9-2a4e9be54e58" />
